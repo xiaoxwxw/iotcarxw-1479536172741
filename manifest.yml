@@ -3,6 +3,6 @@ applications:iotcarxw
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  name: iotcarxw
+  host: iotcarxw
   disk_quota: 1024M
