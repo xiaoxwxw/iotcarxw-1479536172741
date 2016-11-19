@@ -1,4 +1,4 @@
-applications:
+applications:iotcarxw
 - path: .
   memory: 256M
   instances: 1
